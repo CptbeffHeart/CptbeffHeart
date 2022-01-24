@@ -1,5 +1,5 @@
 ### Languages and Tools:
-[<img align="left" alt="IntelliJ" width="30px" src="https://user-images.githubusercontent.com/51067790/150720323-a14bb71b-8632-48f2-802d-531436f4b8c7.jpg" />]
+[<img align="left" alt="IntelliJ" width="30px" src="https://user-images.githubusercontent.com/51067790/150720930-2238b8d2-5571-4470-98ff-fccc84eda493.jpg" />]
 [<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/51067790/150720353-d63f0028-e0d3-4d16-a8a2-43b2f67ed1fb.png" />]
 [<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/51067790/150720378-bdf56008-65db-4c8e-9291-28921d3c7c44.png" />]
 [<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/51067790/150720403-ea3fc8f6-dcb0-4b6b-924a-9d5c3432ba59.jpg" />]
