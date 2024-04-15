@@ -8,6 +8,6 @@
 <br />
 <br />
 <div align="center">
-<img src="https://github-readme-stats-zeta-wine.vercel.app/api?username=CptbeffHeart&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CptbeffHeart&theme=nightowl&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CptbeffHeart&theme=nightowl&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-zeta-wine.vercel.app/api?username=CptbeffHeart&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&hide_border=true" width="49%" />
 </div>
