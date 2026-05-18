@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:087CFA&height=150&section=header" width="100%" />
-
 # Hey, I'm Gilles 👋                                                                                                                                                 
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=200&color=7F52FF&center=true&vCenter=true&width=300&lines=Backend+Developer;Kotlin+Enthusiast;API+Architect)](https://git.io/typing-svg) 
