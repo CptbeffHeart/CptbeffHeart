@@ -40,8 +40,6 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastel-gilles-1a741b39a/)
 
-  <i>Clean code, strong types, no magic.</i>
+</div>
 
-  </div>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:087CFA&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:087CFA&height=100&section=footer" width="100%" />
